@@ -22,3 +22,14 @@ C:\Users\hemra\Source\Repos\Team-Hem-og-Mads\Eksamensopgave-Hem-og-Mads\Eksamens
 C:\Users\hemra\Source\Repos\Team-Hem-og-Mads\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\obj\Debug\Eksamensprojekt (Mads).exe
 C:\Users\hemra\Source\Repos\Team-Hem-og-Mads\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\obj\Debug\Eksamensprojekt (Mads).xml
 C:\Users\hemra\Source\Repos\Team-Hem-og-Mads\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\obj\Debug\Eksamensprojekt (Mads).pdb
+C:\Users\gm\Source\Repos\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\bin\Debug\Eksamensprojekt (Mads).exe.config
+C:\Users\gm\Source\Repos\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\bin\Debug\Eksamensprojekt (Mads).exe
+C:\Users\gm\Source\Repos\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\bin\Debug\Eksamensprojekt (Mads).pdb
+C:\Users\gm\Source\Repos\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\bin\Debug\Eksamensprojekt (Mads).xml
+C:\Users\gm\Source\Repos\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\obj\Debug\Eksamensprojekt (Mads).vbprojAssemblyReference.cache
+C:\Users\gm\Source\Repos\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\obj\Debug\Eksamensprojekt__Mads_.Form1.resources
+C:\Users\gm\Source\Repos\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\obj\Debug\Eksamensprojekt__Mads_.Resources.resources
+C:\Users\gm\Source\Repos\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\obj\Debug\Eksamensprojekt (Mads).vbproj.GenerateResource.cache
+C:\Users\gm\Source\Repos\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\obj\Debug\Eksamensprojekt (Mads).exe
+C:\Users\gm\Source\Repos\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\obj\Debug\Eksamensprojekt (Mads).xml
+C:\Users\gm\Source\Repos\Eksamensopgave-Hem-og-Mads\Eksamensprojekt (Mads)\Eksamensprojekt (Mads)\obj\Debug\Eksamensprojekt (Mads).pdb
